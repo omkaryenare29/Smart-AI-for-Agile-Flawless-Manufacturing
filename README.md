@@ -10,7 +10,7 @@ This repository contains **two independent projects** focused on modern manufact
   - Uses image processing and deep learning techniques.
   - Detects product defects in real time.
   - Improves consistency and reduces manual inspection effort.
-- **Code Location**: [`/computer-vision`](computer-vision/)
+ 
 
 ### 2. Business Intelligence (BI)
 - **Goal**: Agile production monitoring and decision-making through analytics.
@@ -18,7 +18,7 @@ This repository contains **two independent projects** focused on modern manufact
   - Generates dashboards and reports for manufacturing KPIs.
   - Helps track performance, efficiency, and resource usage.
   - Enables data-driven process optimization.
-- **Code Location**: [`/business-intelligence`](business-intelligence/)
+ 
 
 ## 🛠 Tech Stack
 - **Computer Vision**: Python, OpenCV, TensorFlow / PyTorch
